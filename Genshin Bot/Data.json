@@ -1,0 +1,89 @@
+{
+        "chars" : {
+                "Kazuha" : {
+                        "description" : "Kazuha is a 5 star sword-wielding anemo support character. Universally considered one of the best support characters in the game, he excels in crowd control, swirling elements together, increasing the elemental mastery of party members, and dealing massive off-field damage with his burst.",
+                        "weapon-type" : "Sword",
+                        "element" : "Anemo",
+                        "five-star-weapons" : [ "Freedom Sworn", "Mistsplitter Reforged", "Primordial Jade Cutter", "Aquila Favonia", "Skyward Blade", "Summit Shaper" ],
+                        "four-star-weapons" : [ "Iron Sting", "Sacrificial Sword", "Favonius Sword", "Lion's Roar" ],
+                        "five-star-weapon-descriptions" : { 
+                                "Freedom Sworn" : "Freedom Sworn is Kazuha's signature weapon, and typically considered his BiS. Freedom Sworn provides a healthy amount of EM, while also buffing other party members. For any EM build (which is what most people have), Freedom Sworn is definitely Kazuha's BiS.",
+                                "Mistsplitter Reforged" : "Mistsplitter has a great substat of crit dmg and nice passives that buff elemental damage. However, it doesn't give EM, and it is hard to get 3 stacks of the passive without c6 Kazuha, but is Kazuha's best weapon under Freedom Sworn.",
+                                "Primordial Jade Cutter" : "This weapon is good for a main DPS Kazuha. It is Kazuha's BiS for this role if Kazuha has at least a 55:100 crit ratio.",
+                                "Aquila Favonia" : "The BiS for a physical DPS Kazuha. Otherwise, not a great choice, but still decent for main DPS Kazuha.",
+                                "Skyward Blade" : "The ER substat allows Kazuha to almost always use his burst on cooldown. However, this weapon's damage is about equal to an R1 Iron Sting, and the passive is useless if Kazuha is a support character. Iron Sting is typically a better choice than this five star weapon.",
+                                "Summit Shaper" : "This weapon gives quite the amount of ATK but no EM, so it is decent for a main DPS Kazuha build, but not a support. It also requires Kazuha to be constantly shielded to make full use of its passive."
+
+                        },
+                        "four-star-weapon-descriptions" : {
+                                "Iron Sting" : "Iron Sting is typically considered one of the best F2P options for Kazuha. It gives a sizable amount of EM, which allows Kazuha to utilize his full potential as a support character.",
+                                "Sacrificial Sword" : "A very good F2P option for Kazuha. However, it requires high refinement for its passive to be more consistent. Furthermore, its passive loses a lot of its value if you have c1 Kazuha.",
+                                "Favonius Sword" : "The high ER and the passive of this sword allow Kazuha to almost constantly use his burst on cool, and generate particles for other party members. However, it has the lowest damage of all the 4* options.",
+                                "Lion's Roar" : "Lion's Roar lets Kazuha reach the highest damage out of all the 4* swords there are. However, due to its passive, it is best used in overload, electro-charge, and mono-pyro/electro teams."
+                        },
+                        "artifact-set" : "Viridescent Venerer",
+                        "image" : "https://rerollcdn.com/GENSHIN/Characters/Kazuha.png",
+                        "weapons-description" : "Kazuha's main strengths are in how he buffs others based on his own elemental mastery, as well as his burst damage. Therefore, the two key things to look for in weapons are elemental mastery and energy recharge.",
+                        "artifacts-description" : "aoweifji",
+                        "mainstats" : [ "EM", "EM", "EM" ],
+                        "sands-description" : "woiefj",
+                        "goblet-description" : "woeifj",
+                        "circlet-description" : "woifeh",
+                        "substats-description" : "woefuh",
+                        "teams-description" : "many teams...",
+                        "team-names" : [ "permafreeze", "death", "blah" ],
+                        "team-descriptions" : {
+                                "permafreeze" : "This team excels in Bennett",
+                                "death" : "This team excels in death",
+                                "blah" : "yayaya"
+                        },
+                        "teams" : {
+                                "Vaporize #1" : {
+                                        "Childe" : "Childe excels in excelling",
+                                        "Kazuha" : "Kazuha also excels in excelling",
+                                        "Bennett" : "Bennett also really excels in excelling",
+                                        "Xiangling" : "Xiangling moment"
+                                },
+                                "death" : {
+                                        "Bennett" : "Bennett excels in excelling",
+                                        "Chongyun" : "Chongyun buddy",
+                                        "Bennett2" : "Bennett also really excels in excelling",
+                                        "Kazuha" : "Kazuha moment"
+                                },
+                                "blah" : {
+                                        "Bennett" : "Bennett excels in excelling",
+                                        "Bennett2" : "Bennett also excels in excelling",
+                                        "Ayaka" : "damn bro",
+                                        "Kazuha" : "Kazuha moment"
+                                }
+                        }
+                }
+        },
+
+        "weapon-type-pics" : {
+                "Bow" : "https://rerollcdn.com/GENSHIN/Icons/NEW/bow-icon.png",
+                "Catalyst" : "https://rerollcdn.com/GENSHIN/Icons/NEW/catalyst-icon.png",
+                "Claymore" : "https://rerollcdn.com/GENSHIN/Icons/NEW/claymore-icon.png",
+                "Polearm" : "https://rerollcdn.com/GENSHIN/Icons/NEW/polearm-icon.png",
+                "Sword" : "https://rerollcdn.com/GENSHIN/Icons/NEW/sword-icon.png"
+        },
+
+        "weapon-pics" : {
+                "Freedom Sworn" : "https://rerollcdn.com/GENSHIN/Weapon/NEW/Freedom-Sworn.png",
+                "Mistsplitter Reforged" : "https://rerollcdn.com/GENSHIN/Weapon/NEW/Mistsplitter_Reforged.png",
+                "Primordial Jade Cutter" : "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Primordial_Jade_Cutter.png/revision/latest?cb=20210319202419",
+                "Skyward Blade" : "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png/revision/latest?cb=20201116035239",
+                "Summit Shaper" : "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Summit_Shaper.png/revision/latest?cb=20201223042936",
+                "Aquila Favonia" : "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png/revision/latest?cb=20201120002750",
+
+                "Iron Sting" : "https://rerollcdn.com/GENSHIN/Weapon/NEW/Iron_Sting.png",
+                "Sacrificial Sword" : "https://rerollcdn.com/GENSHIN/Weapon/NEW/Sacrificial_Sword.png",
+                "Lion's Roar" : "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lion%27s_Roar.png/revision/latest?cb=20201119232745",
+                "The Alley Flash" : "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Weapon_The_Alley_Flash.png/revision/latest?cb=20210317151138",
+                "Favonius Sword" : "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Weapon_Favonius_Sword.png/revision/latest?cb=20201116033811"
+        },
+
+        "artifact-pics" : {
+                "Viridescent Venerer" : "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+        }
+}
